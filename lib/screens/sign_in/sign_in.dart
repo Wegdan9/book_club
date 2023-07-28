@@ -17,7 +17,6 @@ class SignInScreen extends StatelessWidget {
                   Padding(
                       padding: EdgeInsets.all(40.0),
                       child: Image.asset('assets/images/logo.png'),
-
                   ),
                   SizedBox(height: 20.0,),
                   SignInForm(),
